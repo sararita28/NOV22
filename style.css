@@ -1,0 +1,12 @@
+#pixel-grid {
+  display: grid;
+  gap: 1px;
+  margin: 20px auto;
+  justify-content: center;
+  background-color: #ddd;
+}
+
+.pixel {
+  cursor: pointer;
+  display: inline-block;
+}
